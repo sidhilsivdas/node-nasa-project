@@ -1,7 +1,7 @@
 {
   "name": "node-nasa-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A nodejs project to develope a nasa dashboard for targeting keplers exo planets",
   "main": "index.js",
   "scripts": {
     "watch": "nodemon server.js",
